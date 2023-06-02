@@ -1,9 +1,7 @@
 # runner-module-design
 
-=============================
 module Runner
   # you have to write code here
-
 end
 
 ## Don't change below code
@@ -49,12 +47,10 @@ end
 
 D.new({asd: 33}).()
 
-#output there
-# D
-# B
-# A
-# C
-# A
-# A
-============================
-
+output there
+ D
+ B
+ A
+ C
+ A
+ A
